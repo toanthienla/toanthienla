@@ -9,5 +9,3 @@
 - 📫 How to reach me **toanla.dev@gmail.com**
 
 - ⚡ Fun fact **I have a real 'racket' for badminton 😄🏸**
-
-<h3 align="left">Connect with me:</h3>
