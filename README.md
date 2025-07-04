@@ -1,6 +1,6 @@
-<h1>Bonjour 👋, I'm Toan La</h1>
+<h1>Hi 👋, I'm Toan La</h1>
 
-<h3>Full Stack Overflow Developer</h3>
+<h3>Full Stack Developer</h3>
 
 - 🌱 I’m currently student learning **Software Engineering**
 
